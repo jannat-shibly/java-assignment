@@ -2,7 +2,7 @@ public class Factorial {
     public static long factorialIterative(int n) {
         if (n < 0) {
             
-        long result = 1;
+        long result = 1;O
         for (int i = 1; i <= n; i++) {
             result *= i;
         }
